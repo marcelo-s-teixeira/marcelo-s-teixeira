@@ -12,5 +12,3 @@ marcelo_st@live.com
 -⚡ Avançado em  ...
 - Genexus 
 - COBOL Micro Focus
-
-![Snake animation](https://github.com/marcelo-s-teixeira/marcelo-s-teixeira/blob/output/github-contribution-grid-snake.svg)
